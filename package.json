@@ -1,0 +1,15 @@
+{
+  "name": "rissoles",
+  "version": "0.0.0",
+  "description": "Small programming practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register src/**/test.js"
+  },
+  "author": "Maxim Samoilov <nitive@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
