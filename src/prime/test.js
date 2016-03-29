@@ -1,7 +1,7 @@
 import { should } from 'chai'
 should()
 
-import { isPrime } from './solution'
+import isPrime from './solution'
 
 describe('prime', () => {
 	it('1 is prime', () => {
