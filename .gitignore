@@ -1,5 +1,6 @@
 # node.js
 node_modules
+*.log
 
 # OS X
 .DS_Store
